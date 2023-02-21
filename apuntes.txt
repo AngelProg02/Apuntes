@@ -1,0 +1,6 @@
+Manejo Web gScrapping
+
+pip install beautifulsoup --> Parsear el html y nos permite acceder a la información de manera más intuitivag
+pip install selenium --> Automatización de procesos web
+pip install lxml --> 
+pip install chromedrivemanger
